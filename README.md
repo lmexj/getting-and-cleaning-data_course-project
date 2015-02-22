@@ -1,5 +1,5 @@
-# getting-and-cleaning-data_course-project
-course project-Human Activity Recognition Using Smartphones Dataset analysis
+# getting-and-cleaning-data_course-project -Human Activity Recognition Using Smartphones Dataset analysis
+
 # Introduction to run_analysis
 
 * The course project requires to use the Human Activity Recognition Using Smartphones Dataset (Version 1.0) referred to the following publication [1] 

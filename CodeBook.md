@@ -59,6 +59,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * fBodyGyroMag
 * fBodyGyroJerkMag
 
-## Values 
+## Values and Units
 * Only average of each measurement (indicated by "mean" in the heading from the raw data) was selected
-
+* Unit of measurements is standard gravity "g"
